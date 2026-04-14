@@ -1,27 +1,18 @@
-<p align="center"> ## SocialPlanner powered by <a href="https://bigbastik.it"> </a> </p>
+Ecco una versione ottimizzata e visivamente accattivante per il tuo README.md di GitHub, mantenendo i tuoi link e aggiungendo un tocco professionale.
 
 <p align="center">
-  <a href="https://socialplanner.bigbastik.eu">
-    <img src="https://socialplanner.bigbastik.eu/images/socialplanner-logo.png" alt="SocialPlanner logo" width="520" />
-  </a>
+<a href="https://socialplanner.bigbastik.eu">
+<img src="https://socialplanner.bigbastik.eu/images/socialplanner-logo.png" alt="SocialPlanner logo" width="520" />
+</a>
 </p>
+
+<h3 align="center">SocialPlanner</h3>
 
 <p align="center">
-  <b>SocialPlanner</b> è una web app per pianificare e pubblicare contenuti social.
+L'hub definitivo per la gestione, pianificazione e automazione dei tuoi contenuti social.
+<br />
+<a href="https://socialplanner.bigbastik.eu"><strong>Vai alla Web App »</strong></a>
+<br />
+<br />
+<a href="https://bigbastik.it">Powered by BigBastik</a>
 </p>
-
----
-
-## Web app
-
-- **URL**: `https://socialplanner.bigbastik.eu`
-
----
-
-## Cosa fa
-
-- **Dashboard**: crea/modifica/elimina post programmati con calendario, filtri e stati.
-- **Export**: CSV e iCal.
-- **Social Hub**: collega account social (Facebook/Instagram, LinkedIn, YouTube).
-- **Pubblicazione automatica**: pubblica i contenuti all’orario stabilito.
-
