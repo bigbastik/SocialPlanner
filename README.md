@@ -1,4 +1,4 @@
-Ecco una versione ottimizzata e visivamente accattivante per il tuo README.md di GitHub, mantenendo i tuoi link e aggiungendo un tocco professionale.
+## SocialPlanner by bigbastik.it
 
 <p align="center">
 <a href="https://socialplanner.bigbastik.eu">
