@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://socialplanner.bigbastik.eu">
-    <img src="public/images/socialplanner-logo.png" alt="SocialPlanner logo" width="520" />
+    <img src="https://socialplanner.bigbastik.eu/images/socialplanner-logo.png" alt="SocialPlanner logo" width="520" />
   </a>
 </p>
 
