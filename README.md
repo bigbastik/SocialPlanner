@@ -1,4 +1,4 @@
-<p align="center"> # SocialPlanner powered by <a href="https://bigbastik.it">  </p>
+<p align="center"> ## SocialPlanner powered by <a href="https://bigbastik.it"> </a> </p>
 
 <p align="center">
   <a href="https://socialplanner.bigbastik.eu">
