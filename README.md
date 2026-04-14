@@ -1,4 +1,6 @@
-## SocialPlanner by bigbastik.it
+<p align="center">
+<b>SocialPlanner by <a href="https://bigbastik.it">bigbastik.it</a></b>
+</p>
 
 <p align="center">
 <a href="https://socialplanner.bigbastik.eu">
